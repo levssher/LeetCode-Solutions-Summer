@@ -13,8 +13,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/levssher/LeetCode-Solutions-Summer/tree/master/0005-longest-palindromic-substring) |
+| [0518-coin-change-ii](https://github.com/levssher/LeetCode-Solutions-Summer/tree/master/0518-coin-change-ii) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/levssher/LeetCode-Solutions-Summer/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/levssher/LeetCode-Solutions-Summer/tree/master/0518-coin-change-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/levssher/LeetCode-Solutions-Summer/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/levssher/LeetCode-Solutions-Summer/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
