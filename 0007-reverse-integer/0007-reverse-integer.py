@@ -1,22 +1,20 @@
 class Solution:
     def reverse(self, x: int) -> int:
         result=0
+        sign = 1
 
         if(x<0):
             sign= (-1)
             x*=(-1)
-        else:
-            sign = 1
+            
 
-        while(x!=0 and -2**31 <= result <= 2**31 - 1):
+        while(x!=0):
+            #make sure the result doesn't overflow 32-bits
+            if (result > 214748364) or (result == 214748364 and x%10>7):
+                return 0
 
-            result*=10
-            result+=x%10
+            result=result*10 + x%10
 
             x//=10
-
-        result*=sign
-        if result<-2**31 or result>(2**31 - 1):
-            return 0
         
-        return result
+        return result*sign
