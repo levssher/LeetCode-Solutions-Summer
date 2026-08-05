@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/levssher/LeetCode-Solutions-Summer/tree/master/0518-coin-change-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/levssher/LeetCode-Solutions-Summer/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
